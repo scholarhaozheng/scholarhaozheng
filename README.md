@@ -61,10 +61,10 @@
 
 <br>
 
-<a href="https://doi.org/10.3390/info12100429">
+<a href="assets/projects/shuttle-service-design.svg">
 <picture>
   <source media="(max-width: 640px)" srcset="assets/v4/shuttle-mobile.svg">
-  <img src="assets/v4/shuttle.svg" alt="Customized shuttle transit — Published in Information, 12(10), 429, 2021. Demand-responsive routing with passenger transfers for spatiotemporally uneven demand, using ALNS and Tabu Search. Diagram adapted from the published paper. Read the paper." width="1200">
+  <img src="assets/v4/shuttle.svg" alt="Customized shuttle transit — Published in Information, 12(10), 429, 2021. Demand-responsive routing with passenger transfers for spatiotemporally uneven demand, using ALNS and Tabu Search. Figure 1 restyled while preserving its original spatial layout, vehicle sequence, passenger groups, and transfer relationships. Click to inspect the full diagram." width="1200">
 </picture>
 </a>
 
