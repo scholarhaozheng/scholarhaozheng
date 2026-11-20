@@ -59,15 +59,12 @@
 
 <p><a href="https://doi.org/10.1080/10298436.2026.2708283"><img src="assets/links/paper.svg" width="68" height="24" alt="Paper"></a> &nbsp; &nbsp; <a href="https://github.com/scholarhaozheng/Decision_Making_for_Pavement_Maintenance_Strategies_and_a_VRP_Model_for_Execution"><img src="assets/links/repository.svg" width="103" height="24" alt="Repository"></a></p>
 
-<picture>
-  <source media="(max-width: 640px)" srcset="assets/v4/more-research-mobile.svg">
-  <img src="assets/v4/more-research.svg" alt="More research" width="1200">
-</picture>
+<br>
 
 <a href="https://doi.org/10.3390/info12100429">
 <picture>
   <source media="(max-width: 640px)" srcset="assets/v4/shuttle-mobile.svg">
-  <img src="assets/v4/shuttle.svg" alt="Customized shuttle transit. Route planning for demand that varies across space and time. Information, 2021." width="1200">
+  <img src="assets/v4/shuttle.svg" alt="Customized shuttle transit — Published in Information, 12(10), 429, 2021. Demand-responsive routing with passenger transfers for spatiotemporally uneven demand, using ALNS and Tabu Search. Diagram adapted from the published paper. Read the paper." width="1200">
 </picture>
 </a>
 
