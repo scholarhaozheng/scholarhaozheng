@@ -48,19 +48,21 @@
 
 <p><a href="https://github.com/scholarhaozheng/Software-Package-for-Hybrid-Route-Planning-of-Same-Day-and-Regular-Deliveries-in-Space-Time-Networks"><img src="assets/links/repository.svg" width="103" height="24" alt="Repository"></a> &nbsp; &nbsp; <a href="https://scholarhaozheng.github.io/#publications"><img src="assets/links/research-overview.svg" width="158" height="24" alt="Research overview"></a></p>
 
-<picture>
-  <source media="(max-width: 640px)" srcset="assets/v4/more-research-mobile.svg">
-  <img src="assets/v4/more-research.svg" alt="More research" width="1200">
-</picture>
+<br>
 
 <a href="https://doi.org/10.1080/10298436.2026.2708283">
 <picture>
   <source media="(max-width: 640px)" srcset="assets/v4/pavement-mobile.svg">
-  <img src="assets/v4/pavement.svg" alt="Pavement maintenance scheduling. Connecting maintenance task generation with vehicle-route optimization. International Journal of Pavement Engineering, 2026." width="1200">
+  <img src="assets/v4/pavement.svg" alt="Pavement maintenance scheduling — Published in the International Journal of Pavement Engineering, 2026. Rule-based task generation and branch-and-price route optimisation for pavement maintenance operations. Route geometry adapted from the final manuscript case-study figure. Read the published paper." width="1200">
 </picture>
 </a>
 
 <p><a href="https://doi.org/10.1080/10298436.2026.2708283"><img src="assets/links/paper.svg" width="68" height="24" alt="Paper"></a> &nbsp; &nbsp; <a href="https://github.com/scholarhaozheng/Decision_Making_for_Pavement_Maintenance_Strategies_and_a_VRP_Model_for_Execution"><img src="assets/links/repository.svg" width="103" height="24" alt="Repository"></a></p>
+
+<picture>
+  <source media="(max-width: 640px)" srcset="assets/v4/more-research-mobile.svg">
+  <img src="assets/v4/more-research.svg" alt="More research" width="1200">
+</picture>
 
 <a href="https://doi.org/10.3390/info12100429">
 <picture>
